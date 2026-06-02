@@ -128,7 +128,7 @@
           ## Live Demo
 
           [**https://final-year-pjf9.onrender.com**](https://final-year-pjf9.onrender.com/) — deployed on Render free tier (cold start ~30s on first load).
-          OR Live Domain : Agrifuture.co.in
+          OR Live Domain : [Agrifuture.co.in](https://agrifuture.co.in/)
           ---
 
           ## Known Limitations & Honest Tradeoffs
