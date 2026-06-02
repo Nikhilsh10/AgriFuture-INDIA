@@ -105,8 +105,8 @@
           ## Quick Start
 
           ```bash
-          git clone https://github.com/UTKARSH698/agrifuture-platform
-          cd agrifuture-platform
+          git clone https://github.com/Nikhilsh10/AgriFuture-INDIA.git
+          cd AgriFuture-INDIA
           npm install
 
           # Configure environment
@@ -128,7 +128,7 @@
           ## Live Demo
 
           [**https://final-year-pjf9.onrender.com**](https://final-year-pjf9.onrender.com/) — deployed on Render free tier (cold start ~30s on first load).
-
+          OR Live Domain : Agrifuture.co.in
           ---
 
           ## Known Limitations & Honest Tradeoffs
@@ -142,4 +142,4 @@
                
                 - ---
 
-                *MIT License · Utkarsh Batham*
+                *MIT License · Nikhil Sharma*
