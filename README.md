@@ -1,7 +1,7 @@
 <div align="center"> 
 
 # AgriFuture Platform
-
+ 
 ### AI-Powered Agricultural Intelligence Platform
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://final-year-pjf9.onrender.com/)
