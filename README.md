@@ -22,7 +22,7 @@
   - - **Real-time data integration** — 27+ crop market prices via live mandi API, weather data via Open-Meteo (no API key), monsoon tracking, and photosynthesis index — all hydrated on the client without polling.
     - - **Full-stack TypeScript discipline** — 44+ TypeScript interfaces, 56 `.tsx`/`.ts` files, Zod validation front-to-back (same schemas on client and server), strict type safety throughout 12,500+ lines.
       - - **PWA with offline capability** — cache-first service worker, Web App Manifest, install prompts. Works offline for core features.
-        - - **CI/CD and deployment** — GitHub Actions pipeline, `render.yaml` for one-click Render deploy, `railway.json` for Railway, PostgreSQL managed by Render.
+        - - **CI/CD and deployment** — GitHub Actions pipeline, `render.yaml` for one-click Render deploy, `railway.json` for Railway, PostgreSQL managed by Render. 
          
           - ---
 
