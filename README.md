@@ -52,7 +52,7 @@
 
           ---
 
-          ## Platform Modules (6 AI Systems)
+          ## Platform Modules (6 AI Systems) 
 
           | Module | Technology | What It Does |
           |--------|-----------|-------------|
