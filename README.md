@@ -64,7 +64,7 @@
           | **AgriBot** | Gemini 3 Flash | Streaming conversational AI with farming FAQ and context-aware guidance |
 
           ---
- 
+  
           ## Key Features
 
           | Domain | Features |
