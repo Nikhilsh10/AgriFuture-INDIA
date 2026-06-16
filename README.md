@@ -2,7 +2,7 @@
 
 # AgriFuture Platform
  
-### AI-Powered Agricultural Intelligence Platform 
+### AI-Powered Agricultural Intelligence Platform
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://final-year-pjf9.onrender.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -64,7 +64,7 @@
           | **AgriBot** | Gemini 3 Flash | Streaming conversational AI with farming FAQ and context-aware guidance |
 
           ---
-
+ 
           ## Key Features
 
           | Domain | Features |
