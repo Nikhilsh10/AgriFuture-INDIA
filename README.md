@@ -38,7 +38,7 @@
           ├── routes/predictions.ts AI crop & disease endpoints (Gemini)
           ├── routes/payments.ts    Razorpay order creation & HMAC verification
           ├── routes/market.ts      Mandi price data (27+ crops)
-          ├── routes/reports.ts     Scan history CRUD
+          ├── routes/reports.ts     Scan history CRUD 
           └── routes/expenses.ts    Farm expense CRUD
           │
           ├── PostgreSQL (Render)        Users, reports, expenses, orders, activity log
