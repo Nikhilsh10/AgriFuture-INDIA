@@ -1,5 +1,5 @@
 <div align="center"> 
-
+ 
 # AgriFuture Platform
  
 ### AI-Powered Agricultural Intelligence Platform
