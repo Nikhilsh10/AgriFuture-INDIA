@@ -15,7 +15,7 @@
 
 ---
 
-## What This Project Demonstrates
+## What This Project Demonstrates 
 
 - **Multi-module AI platform architecture** — 6 AI modules (crop recommendation, disease detection, drone terrain analysis, market forecasting, digital twin simulation, conversational AI) behind a single Express 5 server, each backed by Google Gemini with different prompting strategies.
 - - **Production security implementation** — JWT httpOnly cookies, bcrypt password hashing (10 salt rounds), OTP auth via both email (Nodemailer/Gmail) and SMS (MSG91), rate limiting (5 OTP/15min, 10 login/15min per IP), Helmet security headers, Zod schema validation on all inputs.
